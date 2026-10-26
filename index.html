@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="ar">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="noindex, nofollow">
+
+    <!-- Primary title (update per page) -->
+    <title>VerifyNumbersBot - Top countries</title>
+
+    <!-- SEO meta description (update per page) -->
+    <meta name="description" content="Krypton SMS أونلاين لواتساب، تيليغرام، إنستغرام، جيميل، تيك توك والمزيد. احصل على أرقام هواتف مؤقتة من أكثر من 180 دولة. تحقق من الرموز الفورية (OTP) بسرعة، بشكل مجهول وموثوق." />
+
+    <!-- Theme color for browser UI -->
+    <meta name="theme-color" content="#ffffff" />
+
+    <!-- Preconnect to Google Fonts (improves performance) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&display=swap" rel="stylesheet">
+
+    <!-- main stylesheet -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}"> -->
+
+</head>
+
+<body>
+<section dir="rtl" class="w-full bg-white py-16 px-6">
+    <div class="max-w-7xl mx-auto">
+        <h2 class="text-2xl font-bold text-gray-900 mb-6">
+            الإحصائيات
+        </h2>
+        <div class="flex flex-col lg:flex-row lg:items-end gap-4 bg-gray-50 p-5 rounded-xl border">
+            <div class="flex-1">
+                <label class="block text-sm font-bold text-gray-700 mb-2">
+                    الخدمات
+                </label>
+
+                <div class="relative w-full">
+                    <button id="serviceBtn" type="button"
+                        class="w-full flex items-center justify-between border border-gray-300 rounded-lg hover:border-blue-400 px-3 py-2 bg-white focus:outline-none focus:ring-2 focus:ring-blue-400"
+                        onclick="toggleServices()">
+                        <span id="selectedService" class="text-gray-500">جاري التحميل...</span>
+                        <svg class="w-4 h-4 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                        </svg>
+                    </button>
+
+                    <div id="serviceList"
+                        class="absolute z-50 w-full mt-2 bg-white border border-gray-200 rounded-lg shadow-lg hidden max-h-60 overflow-auto">
+                    </div>
+
+                    <input type="hidden" id="serviceId" />
+                </div>
+            </div>
+
+            <div class="flex-1">
+                <label class="block text-sm font-bold text-gray-700 mb-2">
+                    الترتيب
+                </label>
+
+                <input id="ranking" type="text" data-value="top10" value="أفضل 10 دول" readonly
+                    class="w-full border border-gray-300 rounded-lg hover:border-blue-400 px-3 py-2 bg-white" />
+            </div>
+
+            <div class="flex-1 relative">
+                <label class="flex items-center gap-2 text-sm font-bold text-gray-700 mb-2">
+                    <span>التفعيلات الناجحة (عدد الطلبات)</span>
+                </label>
+
+                <button type="button" id="successBtn" onclick="toggleSuccess()"
+                    class="w-full h-11 flex items-center justify-between px-4 rounded-lg border border-gray-200 bg-white shadow-sm hover:border-blue-400 transition">
+                    <span id="successText" class="text-gray-800">أقل من 50 تفعيل ناجح</span>
+                    <svg class="w-4 h-4 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                    </svg>
+                </button>
+
+                <input type="hidden" id="successFilter" value="low">
+
+                <div id="successMenu"
+                    class="absolute z-50 mt-2 w-full bg-white border border-gray-200 rounded-xl shadow-lg overflow-hidden hidden">
+
+                    <div class="px-4 py-3 hover:bg-blue-50 hover:text-blue-600 cursor-pointer transition"
+                        onclick="selectSuccess('low','أقل من 50 تفعيل ناجح')">
+                        أقل من 50 تفعيل ناجح
+                    </div>
+
+                    <div class="px-4 py-3 hover:bg-blue-50 hover:text-blue-600 cursor-pointer transition"
+                        onclick="selectSuccess('medium','أكثر من 50 تفعيل ناجح')">
+                        أكثر من 50 تفعيل ناجح
+                    </div>
+
+                    <div class="px-4 py-3 hover:bg-blue-50 hover:text-blue-600 cursor-pointer transition"
+                        onclick="selectSuccess('high','أكثر من 500 تفعيل ناجح')">
+                        أكثر من 500 تفعيل ناجح
+                    </div>
+
+                    <div class="px-4 py-3 hover:bg-blue-50 hover:text-blue-600 cursor-pointer transition"
+                        onclick="selectSuccess('very_high','أكثر من 1000 تفعيل ناجح')">
+                        أكثر من 1000 تفعيل ناجح
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="flex-1 relative">
+                <label class="flex items-center gap-2 text-sm font-bold text-gray-700 mb-2">
+                    <span>الفاصل الزمني</span>
+                </label>
+                <button type="button" id="intervalBtn" onclick="toggleInterval()"
+                    class="w-full h-11 flex items-center justify-between px-4 rounded-lg border border-gray-200 bg-white shadow-sm hover:border-blue-400 transition">
+
+                    <span id="intervalText" class="text-gray-800">12 ساعة</span>
+                    <svg class="w-4 h-4 text-gray-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                    </svg>
+                </button>
+
+                <input type="hidden" id="interval" value="12">
+
+                <div id="intervalMenu"
+                    class="absolute z-50 mt-2 w-full bg-white border border-gray-200 rounded-xl shadow-lg overflow-hidden hidden">
+
+                    <div class="px-4 py-3 bg-blue-50 text-blue-600 cursor-pointer transition"
+                        onclick="selectInterval('12','12 ساعة')">
+                        12 ساعة
+                    </div>
+
+                    <div class="px-4 py-3 hover:bg-blue-50 hover:text-blue-600 cursor-pointer transition"
+                        onclick="selectInterval('24','24 ساعة')">
+                        24 ساعة
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="lg:w-auto w-full">
+                <button onclick="sendStatsRequest()"
+                    class="w-full h-11 lg:w-auto px-6 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition">
+                    طلب البيانات
+                </button>
+            </div>
+
+        </div>
+
+        <!-- Results -->
+        <div id="statsResult" class="mt-10"></div>
+
+    </div>
+</section>
+
+<script id="flask-data" type="application/json">
+    {{ service_id | tojson }}
+</script>
+
+<script>
+    const service_id = JSON.parse(document.getElementById("flask-data").textContent);
+    let servicesData = [];
+
+    function sendStatsRequest() {
+        const service = document.getElementById('serviceId').value;
+        const ranking = document.getElementById('ranking').dataset.value;
+        const success = document.getElementById('successFilter').value;
+        const interval = document.getElementById('interval').value;
+
+        const payload = {
+            service,
+            ranking,
+            success,
+            interval
+        };
+
+        console.log("Request payload:", payload);
+
+        fetch('/api/v1/statistics', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(payload)
+        }).then(res => res.json())
+            .then(renderStats);
+    }
+
+    function renderStats(data) {
+        const el = document.getElementById("statsResult");
+
+        if (!data || !data.length) {
+            el.innerHTML = `
+            <div class="text-center text-gray-500 py-10">
+                لا توجد بيانات
+            </div>
+        `;
+            return;
+        }
+
+        el.innerHTML = `
+        <div class="bg-white border border-gray-200 rounded-xl shadow-sm p-5">
+
+            <h2 class="text-lg font-bold text-gray-800 mb-5">
+                أفضل 10 دول
+            </h2>
+
+            <span class="inline-flex items-center gap-2 px-3 py-1 mb-10 rounded-lg bg-blue-50 text-blue-700 text-sm font-medium">
+                <span class="w-10 h-3 rounded-full bg-blue-500"></span>
+                % نسبة نجاح استقبال كود التفعيل
+            </span>
+
+            <div class="space-y-4">
+
+                ${data.map(country => `
+                    <div class="w-full">
+
+                        <div class="flex items-center justify-between mb-1">
+
+                            <div class="flex items-center gap-2">
+                                <img src="https://flagcdn.com/w40/${country.logo}.png" class="w-6 h-6 rounded-full object-cover" />
+                                <span class="text-sm font-medium text-gray-800">
+                                    ${country.name}
+                                </span>
+                            </div>
+
+                            <span class="text-sm text-gray-600">
+                                ${country.percentage}%
+                            </span>
+
+                        </div>
+
+                        <div class="w-full h-2 bg-gray-100 rounded-full overflow-hidden">
+                            <div class="h-full bg-blue-500 rounded-full"
+                                style="width: ${country.percentage}%"></div>
+                        </div>
+
+                    </div>
+                `).join("")}
+
+            </div>
+        </div>
+    `;
+    }
+
+    async function loadServices() {
+        const list = document.getElementById("serviceList");
+        const selected = document.getElementById("selectedService");
+
+        try {
+            selected.textContent = "جاري التحميل...";
+
+            // const res = await fetch("/api/v1/services", {
+            //     method: "GET",
+            //     headers: { "Content-Type": "application/json" }
+            // });
+
+            // servicesData = await res.json();
+
+            const res = await fetch("services_map.json");
+            const servicesData = await res.json();
+            console.log(servicesData.services[0].name);
+
+            list.innerHTML = "";
+
+            servicesData.forEach(service => {
+                const item = document.createElement("div");
+
+                item.className =
+                    "flex items-center gap-3 px-3 py-2 hover:bg-gray-100 cursor-pointer";
+
+                item.innerHTML = `
+                <img src="${service.logo}" loading="lazy" class="w-6 h-6 rounded-full object-cover" />
+                <span class="text-gray-800">${service.name}</span>
+            `;
+
+                item.onclick = () => selectService(service);
+
+                list.appendChild(item);
+            });
+
+            const current_service = servicesData.find(x => x.id === service_id);
+            selectService(current_service, false);
+
+        } catch (err) {
+            console.error(err);
+            selected.textContent = "فشل تحميل الخدمات";
+        }
+    }
+
+    function selectService(service, toggle) {
+        document.getElementById("selectedService").innerHTML = `
+        <div class="flex items-center gap-2">
+            <img src="${service.logo}" class="w-5 h-5 rounded-full object-cover" />
+            <span>${service.name}</span>
+        </div>
+    `;
+
+        document.getElementById("serviceId").value = service.id;
+        if (toggle == false) { }
+        else {
+            toggleServices();
+        }
+    }
+
+    function toggleServices() {
+        const list = document.getElementById("serviceList");
+        list.classList.toggle("hidden");
+    }
+
+    document.addEventListener("click", function (e) {
+        const box = document.getElementById("serviceList");
+        const btn = document.getElementById("serviceBtn");
+
+        if (!btn.contains(e.target) && !box.contains(e.target)) {
+            box.classList.add("hidden");
+        }
+    });
+
+    loadServices();
+</script>
+
+<script>
+    function toggleSuccess() {
+        document.getElementById("successMenu").classList.toggle("hidden");
+    }
+
+    function selectSuccess(value, label) {
+        document.getElementById("successFilter").value = value;
+        document.getElementById("successText").innerText = label;
+        document.getElementById("successText").classList.remove("text-gray-500");
+        document.getElementById("successText").classList.add("text-gray-800");
+
+        document.getElementById("successMenu").classList.add("hidden");
+    }
+
+    // close on outside click
+    document.addEventListener("click", function (e) {
+        const box = document.getElementById("successMenu");
+        const btn = document.getElementById("successBtn");
+
+        if (!btn.contains(e.target) && !box.contains(e.target)) {
+            box.classList.add("hidden");
+        }
+    });
+</script>
+
+<script>
+    function toggleInterval() {
+        document.getElementById("intervalMenu").classList.toggle("hidden");
+    }
+
+    function selectInterval(value, label) {
+        document.getElementById("interval").value = value;
+        document.getElementById("intervalText").innerText = label;
+        document.getElementById("intervalMenu").classList.add("hidden");
+    }
+
+    document.addEventListener("click", function (e) {
+        const box = document.getElementById("intervalMenu");
+        const btn = document.getElementById("intervalBtn");
+
+        if (!btn.contains(e.target) && !box.contains(e.target)) {
+            box.classList.add("hidden");
+        }
+    });
+</script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,3225 @@
+{
+  "status": "success",
+  "services": [
+    {
+      "code": "full",
+      "name": "Full rent"
+    },
+    {
+      "code": "wa",
+      "name": "Whatsapp"
+    },
+    {
+      "code": "fb",
+      "name": "facebook"
+    },
+    {
+      "code": "dr",
+      "name": "OpenAI"
+    },
+    {
+      "code": "go",
+      "name": "Google,youtube,Gmail"
+    },
+    {
+      "code": "ni",
+      "name": "Gojek"
+    },
+    {
+      "code": "am",
+      "name": "Amazon"
+    },
+    {
+      "code": "gp",
+      "name": "Ticketmaster"
+    },
+    {
+      "code": "ka",
+      "name": "Shopee"
+    },
+    {
+      "code": "ig",
+      "name": "Instagram+Threads"
+    },
+    {
+      "code": "hw",
+      "name": "Alipay/Alibaba/1688"
+    },
+    {
+      "code": "tw",
+      "name": "Twitter/X"
+    },
+    {
+      "code": "wb",
+      "name": "WeChat"
+    },
+    {
+      "code": "ot",
+      "name": "Any other"
+    },
+    {
+      "code": "lf",
+      "name": "TikTok/Douyin"
+    },
+    {
+      "code": "tg",
+      "name": "Telegram"
+    },
+    {
+      "code": "ds",
+      "name": "Discord"
+    },
+    {
+      "code": "yw",
+      "name": "Grindr"
+    },
+    {
+      "code": "cq",
+      "name": "Mercado"
+    },
+    {
+      "code": "wx",
+      "name": "Apple"
+    },
+    {
+      "code": "ub",
+      "name": "Uber"
+    },
+    {
+      "code": "fr",
+      "name": "Dana"
+    },
+    {
+      "code": "nv",
+      "name": "Naver"
+    },
+    {
+      "code": "oi",
+      "name": "Tinder"
+    },
+    {
+      "code": "ts",
+      "name": "PayPal"
+    },
+    {
+      "code": "im",
+      "name": "Imo"
+    },
+    {
+      "code": "abu",
+      "name": "BPJSTK"
+    },
+    {
+      "code": "bcq",
+      "name": "Mantan/Kopi Kenangan"
+    },
+    {
+      "code": "ew",
+      "name": "Nike"
+    },
+    {
+      "code": "vi",
+      "name": "Viber"
+    },
+    {
+      "code": "mm",
+      "name": "Microsoft"
+    },
+    {
+      "code": "qf",
+      "name": "RedBook"
+    },
+    {
+      "code": "jg",
+      "name": "Grab"
+    },
+    {
+      "code": "fu",
+      "name": "Snapchat"
+    },
+    {
+      "code": "awv",
+      "name": "Wallapop"
+    },
+    {
+      "code": "pm",
+      "name": "AOL"
+    },
+    {
+      "code": "vk",
+      "name": "vk.com"
+    },
+    {
+      "code": "mo",
+      "name": "Bumble"
+    },
+    {
+      "code": "bw",
+      "name": "Signal"
+    },
+    {
+      "code": "pz",
+      "name": "Lidl"
+    },
+    {
+      "code": "hb",
+      "name": "Twitch"
+    },
+    {
+      "code": "ju",
+      "name": "Indomaret"
+    },
+    {
+      "code": "ki",
+      "name": "99app"
+    },
+    {
+      "code": "awz",
+      "name": "PlayTime"
+    },
+    {
+      "code": "nz",
+      "name": "Foodpanda"
+    },
+    {
+      "code": "xh",
+      "name": "OVO"
+    },
+    {
+      "code": "ue",
+      "name": "Onet"
+    },
+    {
+      "code": "dh",
+      "name": "eBay"
+    },
+    {
+      "code": "ev",
+      "name": "Picpay "
+    },
+    {
+      "code": "vr",
+      "name": "MotorkuX"
+    },
+    {
+      "code": "kc",
+      "name": "Vinted"
+    },
+    {
+      "code": "alg",
+      "name": "Ankama"
+    },
+    {
+      "code": "me",
+      "name": "Line messenger"
+    },
+    {
+      "code": "nf",
+      "name": "Netflix"
+    },
+    {
+      "code": "aka",
+      "name": "LinkAja"
+    },
+    {
+      "code": "alj",
+      "name": "Spotify"
+    },
+    {
+      "code": "mb",
+      "name": "Yahoo"
+    },
+    {
+      "code": "bn",
+      "name": "Alfagift"
+    },
+    {
+      "code": "dl",
+      "name": "Lazada"
+    },
+    {
+      "code": "tn",
+      "name": "LinkedIN"
+    },
+    {
+      "code": "bzk",
+      "name": "Amaze Super App"
+    },
+    {
+      "code": "acz",
+      "name": "Claude "
+    },
+    {
+      "code": "ya",
+      "name": "Yandex"
+    },
+    {
+      "code": "aez",
+      "name": "Shein"
+    },
+    {
+      "code": "xk",
+      "name": "DiDi"
+    },
+    {
+      "code": "aop",
+      "name": "Kleinanzeigen"
+    },
+    {
+      "code": "amb",
+      "name": "Vercel"
+    },
+    {
+      "code": "aik",
+      "name": "ZUS Coffee"
+    },
+    {
+      "code": "abk",
+      "name": "GMX"
+    },
+    {
+      "code": "qj",
+      "name": "Whoosh"
+    },
+    {
+      "code": "abc",
+      "name": "Taptap Send"
+    },
+    {
+      "code": "sg",
+      "name": "OZON"
+    },
+    {
+      "code": "za",
+      "name": "JDcom"
+    },
+    {
+      "code": "blt",
+      "name": "INDOPAKET"
+    },
+    {
+      "code": "ada",
+      "name": "TRUTH SOCIAL"
+    },
+    {
+      "code": "pf",
+      "name": "pof.com"
+    },
+    {
+      "code": "vz",
+      "name": "Hinge"
+    },
+    {
+      "code": "aba",
+      "name": "Rappi"
+    },
+    {
+      "code": "df",
+      "name": "Happn"
+    },
+    {
+      "code": "abo",
+      "name": "WEBDE"
+    },
+    {
+      "code": "ac",
+      "name": "DoorDash"
+    },
+    {
+      "code": "sn",
+      "name": "OLX"
+    },
+    {
+      "code": "wr",
+      "name": "Walmart"
+    },
+    {
+      "code": "yl",
+      "name": "Yalla"
+    },
+    {
+      "code": "vm",
+      "name": "OkCupid"
+    },
+    {
+      "code": "agl",
+      "name": "Betano"
+    },
+    {
+      "code": "anx",
+      "name": "InfinitePay"
+    },
+    {
+      "code": "nc",
+      "name": "Payoneer"
+    },
+    {
+      "code": "ang",
+      "name": "TOMORO COFFEE"
+    },
+    {
+      "code": "bz",
+      "name": "Blizzard"
+    },
+    {
+      "code": "do",
+      "name": "Leboncoin"
+    },
+    {
+      "code": "kt",
+      "name": "KakaoTalk"
+    },
+    {
+      "code": "cn",
+      "name": "Fiverr"
+    },
+    {
+      "code": "rr",
+      "name": "Wolt"
+    },
+    {
+      "code": "tx",
+      "name": "Bolt"
+    },
+    {
+      "code": "aaa",
+      "name": "Nubank"
+    },
+    {
+      "code": "pc",
+      "name": "Casino/bet/gambling"
+    },
+    {
+      "code": "bex",
+      "name": "Whatnot"
+    },
+    {
+      "code": "li",
+      "name": "Baidu"
+    },
+    {
+      "code": "xd",
+      "name": "Tokopedia"
+    },
+    {
+      "code": "bxy",
+      "name": "MAX"
+    },
+    {
+      "code": "yy",
+      "name": "Venmo"
+    },
+    {
+      "code": "bnl",
+      "name": "Reddit"
+    },
+    {
+      "code": "tm",
+      "name": "Akulaku"
+    },
+    {
+      "code": "aor",
+      "name": "OKX"
+    },
+    {
+      "code": "jq",
+      "name": "Paysafecard"
+    },
+    {
+      "code": "afm",
+      "name": "myboost"
+    },
+    {
+      "code": "uk",
+      "name": "Airbnb"
+    },
+    {
+      "code": "auh",
+      "name": "KeeTa 美团"
+    },
+    {
+      "code": "anh",
+      "name": "Cadbury"
+    },
+    {
+      "code": "aiw",
+      "name": "Roblox"
+    },
+    {
+      "code": "qv",
+      "name": "Badoo"
+    },
+    {
+      "code": "bdr",
+      "name": "Yara Farmcare"
+    },
+    {
+      "code": "zh",
+      "name": "Zoho"
+    },
+    {
+      "code": "bgv",
+      "name": "Clearpay"
+    },
+    {
+      "code": "pd",
+      "name": "IFood"
+    },
+    {
+      "code": "cau",
+      "name": "Ero Me"
+    },
+    {
+      "code": "ex",
+      "name": "Linode"
+    },
+    {
+      "code": "uu",
+      "name": "Wildberries"
+    },
+    {
+      "code": "bwv",
+      "name": "Manus"
+    },
+    {
+      "code": "fv",
+      "name": "Vidio"
+    },
+    {
+      "code": "akp",
+      "name": "Her"
+    },
+    {
+      "code": "lj",
+      "name": "Santander"
+    },
+    {
+      "code": "oz",
+      "name": "Poshmark"
+    },
+    {
+      "code": "afp",
+      "name": "VFS GLOBAL"
+    },
+    {
+      "code": "ah",
+      "name": "EscapeFromTarkov"
+    },
+    {
+      "code": "ij",
+      "name": "Revolut"
+    },
+    {
+      "code": "si",
+      "name": "Cita Previa"
+    },
+    {
+      "code": "aff",
+      "name": "C6 Bank"
+    },
+    {
+      "code": "als",
+      "name": "Greggs "
+    },
+    {
+      "code": "aux",
+      "name": "Lightning AI"
+    },
+    {
+      "code": "fz",
+      "name": "KFC"
+    },
+    {
+      "code": "sw",
+      "name": "NCsoft"
+    },
+    {
+      "code": "zk",
+      "name": "Deliveroo"
+    },
+    {
+      "code": "adt",
+      "name": "willhaben"
+    },
+    {
+      "code": "abn",
+      "name": "Bybit"
+    },
+    {
+      "code": "bc",
+      "name": "GCash"
+    },
+    {
+      "code": "bwu",
+      "name": "SkyBet"
+    },
+    {
+      "code": "asb",
+      "name": "YUEWEN 阅文集团"
+    },
+    {
+      "code": "mt",
+      "name": "Steam"
+    },
+    {
+      "code": "ok",
+      "name": "ok.ru"
+    },
+    {
+      "code": "re",
+      "name": "Coinbase"
+    },
+    {
+      "code": "tl",
+      "name": "Truecaller"
+    },
+    {
+      "code": "alb",
+      "name": "Guiche Web"
+    },
+    {
+      "code": "axx",
+      "name": "Shopback"
+    },
+    {
+      "code": "blz",
+      "name": "MiniPay"
+    },
+    {
+      "code": "bmd",
+      "name": "VooV Meeting"
+    },
+    {
+      "code": "arf",
+      "name": "Enjoei"
+    },
+    {
+      "code": "hx",
+      "name": "AliExpress"
+    },
+    {
+      "code": "acm",
+      "name": "Razer"
+    },
+    {
+      "code": "afe",
+      "name": "GovBr"
+    },
+    {
+      "code": "ark",
+      "name": "SageMaker Studio Lab"
+    },
+    {
+      "code": "ajn",
+      "name": "Gopuff"
+    },
+    {
+      "code": "ep",
+      "name": "Temu"
+    },
+    {
+      "code": "agj",
+      "name": "Marktplaats"
+    },
+    {
+      "code": "akr",
+      "name": "Voi"
+    },
+    {
+      "code": "bwx",
+      "name": "Chagee"
+    },
+    {
+      "code": "gq",
+      "name": "Freelancer"
+    },
+    {
+      "code": "yx",
+      "name": "JTExpress"
+    },
+    {
+      "code": "adu",
+      "name": "Seznam"
+    },
+    {
+      "code": "aoy",
+      "name": "PLN Mobile"
+    },
+    {
+      "code": "aqt",
+      "name": "Skrill"
+    },
+    {
+      "code": "bxg",
+      "name": "BAT"
+    },
+    {
+      "code": "fk",
+      "name": "BLIBLI"
+    },
+    {
+      "code": "km",
+      "name": "Rozetka"
+    },
+    {
+      "code": "ua",
+      "name": "BlaBlaCar"
+    },
+    {
+      "code": "xx",
+      "name": "Joyride"
+    },
+    {
+      "code": "ahb",
+      "name": "Ubisoft"
+    },
+    {
+      "code": "avb",
+      "name": "Tealive"
+    },
+    {
+      "code": "bbq",
+      "name": "Chime"
+    },
+    {
+      "code": "bkd",
+      "name": "Sahibinden"
+    },
+    {
+      "code": "btn",
+      "name": "Itau"
+    },
+    {
+      "code": "xs",
+      "name": "GroupMe"
+    },
+    {
+      "code": "abg",
+      "name": "PagBank"
+    },
+    {
+      "code": "ahl",
+      "name": "Maxim"
+    },
+    {
+      "code": "ann",
+      "name": "Bradesco"
+    },
+    {
+      "code": "bl",
+      "name": "BIGO LIVE"
+    },
+    {
+      "code": "bra",
+      "name": "Touch n Go TNG"
+    },
+    {
+      "code": "ff",
+      "name": "AVON"
+    },
+    {
+      "code": "wh",
+      "name": "TanTan"
+    },
+    {
+      "code": "zg",
+      "name": "Setel"
+    },
+    {
+      "code": "afz",
+      "name": "Klarna"
+    },
+    {
+      "code": "aoz",
+      "name": "ReclameAQUI"
+    },
+    {
+      "code": "bgt",
+      "name": "Alfamidi"
+    },
+    {
+      "code": "bpt",
+      "name": "SerpApi "
+    },
+    {
+      "code": "nh",
+      "name": "AlloBank"
+    },
+    {
+      "code": "sr",
+      "name": "Starbucks"
+    },
+    {
+      "code": "tu",
+      "name": "Lyft"
+    },
+    {
+      "code": "afs",
+      "name": "Privalia"
+    },
+    {
+      "code": "ako",
+      "name": "Ryde"
+    },
+    {
+      "code": "axj",
+      "name": "FIFGROUP MOBILE CUSTOMER"
+    },
+    {
+      "code": "axn",
+      "name": "FastMoss"
+    },
+    {
+      "code": "bfg",
+      "name": "EMAG"
+    },
+    {
+      "code": "bfr",
+      "name": "Dott"
+    },
+    {
+      "code": "bqh",
+      "name": "PEDIR GAS"
+    },
+    {
+      "code": "btv",
+      "name": "Radiate"
+    },
+    {
+      "code": "aem",
+      "name": "AstraPay"
+    },
+    {
+      "code": "aey",
+      "name": "Next"
+    },
+    {
+      "code": "ais",
+      "name": "DiDiFood"
+    },
+    {
+      "code": "ajq",
+      "name": "MyValue"
+    },
+    {
+      "code": "alm",
+      "name": "Muzz"
+    },
+    {
+      "code": "ani",
+      "name": "Talabat"
+    },
+    {
+      "code": "bfo",
+      "name": "MSport"
+    },
+    {
+      "code": "ry",
+      "name": "McDonalds"
+    },
+    {
+      "code": "vd",
+      "name": "Betfair"
+    },
+    {
+      "code": "vg",
+      "name": "ShellBox"
+    },
+    {
+      "code": "yi",
+      "name": "Yemeksepeti"
+    },
+    {
+      "code": "ajj",
+      "name": "Rebtel"
+    },
+    {
+      "code": "aoi",
+      "name": "Cryptonow"
+    },
+    {
+      "code": "apd",
+      "name": "2dehands"
+    },
+    {
+      "code": "aq",
+      "name": "Glovo"
+    },
+    {
+      "code": "aup",
+      "name": "Botim"
+    },
+    {
+      "code": "ayb",
+      "name": "AsianDating"
+    },
+    {
+      "code": "bli",
+      "name": "Scalapay"
+    },
+    {
+      "code": "bnz",
+      "name": "Seven Bet"
+    },
+    {
+      "code": "bo",
+      "name": "Wise"
+    },
+    {
+      "code": "bzo",
+      "name": "SeLoger"
+    },
+    {
+      "code": "em",
+      "name": "ZéDelivery"
+    },
+    {
+      "code": "gf",
+      "name": "GoogleVoice"
+    },
+    {
+      "code": "hu",
+      "name": "Ukrnet"
+    },
+    {
+      "code": "pr",
+      "name": "Trendyol"
+    },
+    {
+      "code": "qq",
+      "name": "Tencent QQ"
+    },
+    {
+      "code": "rl",
+      "name": "inDriver"
+    },
+    {
+      "code": "uz",
+      "name": "OffGamers"
+    },
+    {
+      "code": "zy",
+      "name": "Nttgame"
+    },
+    {
+      "code": "aex",
+      "name": "Neon"
+    },
+    {
+      "code": "agh",
+      "name": "Getnet"
+    },
+    {
+      "code": "ahe",
+      "name": "Bunq"
+    },
+    {
+      "code": "anl",
+      "name": "AttaPoll"
+    },
+    {
+      "code": "apq",
+      "name": "WePoker"
+    },
+    {
+      "code": "apr",
+      "name": "Capital One"
+    },
+    {
+      "code": "axs",
+      "name": "AIS PLAY"
+    },
+    {
+      "code": "bdp",
+      "name": "Kredito"
+    },
+    {
+      "code": "bfw",
+      "name": "Finya"
+    },
+    {
+      "code": "gj",
+      "name": "Carousell"
+    },
+    {
+      "code": "te",
+      "name": "eFood"
+    },
+    {
+      "code": "zm",
+      "name": "OfferUp"
+    },
+    {
+      "code": "acw",
+      "name": "YouDo"
+    },
+    {
+      "code": "ael",
+      "name": "Cloud Manager"
+    },
+    {
+      "code": "afr",
+      "name": "Ultragaz"
+    },
+    {
+      "code": "akd",
+      "name": " Feels"
+    },
+    {
+      "code": "akl",
+      "name": "DOKU"
+    },
+    {
+      "code": "ama",
+      "name": "WooPlus"
+    },
+    {
+      "code": "asj",
+      "name": "T-online"
+    },
+    {
+      "code": "aua",
+      "name": "同程旅行 Tongcheng Travel"
+    },
+    {
+      "code": "auc",
+      "name": "TotalPass"
+    },
+    {
+      "code": "awr",
+      "name": "KCEX"
+    },
+    {
+      "code": "axp",
+      "name": "ChargePoint"
+    },
+    {
+      "code": "azi",
+      "name": "TheL"
+    },
+    {
+      "code": "bbk",
+      "name": "FilipinoCupid"
+    },
+    {
+      "code": "bst",
+      "name": "AdmiralBet"
+    },
+    {
+      "code": "btl",
+      "name": "D4"
+    },
+    {
+      "code": "bwa",
+      "name": "Hostinger"
+    },
+    {
+      "code": "ef",
+      "name": "Nextdoor"
+    },
+    {
+      "code": "ej",
+      "name": "MrQ"
+    },
+    {
+      "code": "gr",
+      "name": "Astropay"
+    },
+    {
+      "code": "ie",
+      "name": "bet365"
+    },
+    {
+      "code": "abe",
+      "name": "Foodora"
+    },
+    {
+      "code": "agb",
+      "name": "Smiles"
+    },
+    {
+      "code": "ahf",
+      "name": "GAIL`s Bakery"
+    },
+    {
+      "code": "ahi",
+      "name": "Daki"
+    },
+    {
+      "code": "aof",
+      "name": "Guzman y Gomez"
+    },
+    {
+      "code": "aoh",
+      "name": "YooMoney"
+    },
+    {
+      "code": "aok",
+      "name": "NETELLER"
+    },
+    {
+      "code": "app",
+      "name": "ClassPass"
+    },
+    {
+      "code": "asp",
+      "name": "PhonePe"
+    },
+    {
+      "code": "axt",
+      "name": "GNJOY"
+    },
+    {
+      "code": "bbi",
+      "name": "aiqfome"
+    },
+    {
+      "code": "bbu",
+      "name": "InternationalCupid"
+    },
+    {
+      "code": "bny",
+      "name": "Suno"
+    },
+    {
+      "code": "bp",
+      "name": "GoFundMe"
+    },
+    {
+      "code": "bre",
+      "name": "Лемана ПРО"
+    },
+    {
+      "code": "brk",
+      "name": "Indeed"
+    },
+    {
+      "code": "bsu",
+      "name": "Dingtone"
+    },
+    {
+      "code": "btr",
+      "name": "Duet"
+    },
+    {
+      "code": "bvh",
+      "name": "ParenTeam"
+    },
+    {
+      "code": "bxf",
+      "name": "Disney Plus"
+    },
+    {
+      "code": "cb",
+      "name": "Bazos"
+    },
+    {
+      "code": "dy",
+      "name": "Zomato"
+    },
+    {
+      "code": "fh",
+      "name": "Lalamove"
+    },
+    {
+      "code": "hc",
+      "name": "MOMO"
+    },
+    {
+      "code": "jx",
+      "name": "Swiggy"
+    },
+    {
+      "code": "nq",
+      "name": "Trip"
+    },
+    {
+      "code": "rk",
+      "name": "Fotka"
+    },
+    {
+      "code": "rt",
+      "name": "hily"
+    },
+    {
+      "code": "sa",
+      "name": "AGIBANK"
+    },
+    {
+      "code": "uf",
+      "name": "Eneba"
+    },
+    {
+      "code": "ul",
+      "name": "Getir"
+    },
+    {
+      "code": "vy",
+      "name": "Meta"
+    },
+    {
+      "code": "ww",
+      "name": "BIP"
+    },
+    {
+      "code": "zp",
+      "name": "Pinduoduo"
+    },
+    {
+      "code": "aay",
+      "name": "JioMart"
+    },
+    {
+      "code": "abq",
+      "name": "Upwork"
+    },
+    {
+      "code": "acb",
+      "name": "Spark Driver"
+    },
+    {
+      "code": "acd",
+      "name": "Cloud.ru"
+    },
+    {
+      "code": "adc",
+      "name": "PlayOJO"
+    },
+    {
+      "code": "adi",
+      "name": "Zepto"
+    },
+    {
+      "code": "adp",
+      "name": "Cabify"
+    },
+    {
+      "code": "agd",
+      "name": "Grailed"
+    },
+    {
+      "code": "agg",
+      "name": "OneForma"
+    },
+    {
+      "code": "agm",
+      "name": "CMB"
+    },
+    {
+      "code": "ait",
+      "name": "FeetFinder"
+    },
+    {
+      "code": "aje",
+      "name": "CupidMedia"
+    },
+    {
+      "code": "alo",
+      "name": "Profee"
+    },
+    {
+      "code": "amz",
+      "name": "ImmoScout24"
+    },
+    {
+      "code": "anm",
+      "name": "CaltexGO"
+    },
+    {
+      "code": "apo",
+      "name": "Netmarble"
+    },
+    {
+      "code": "aqy",
+      "name": "SAPO"
+    },
+    {
+      "code": "arb",
+      "name": "Las Vegas Casino"
+    },
+    {
+      "code": "arp",
+      "name": "Continente"
+    },
+    {
+      "code": "atr",
+      "name": "RIDE "
+    },
+    {
+      "code": "axr",
+      "name": "Match"
+    },
+    {
+      "code": "baj",
+      "name": "Bipa"
+    },
+    {
+      "code": "ban",
+      "name": "BLINK by BonusLink"
+    },
+    {
+      "code": "bdg",
+      "name": "HUD"
+    },
+    {
+      "code": "bgj",
+      "name": "MoonPay"
+    },
+    {
+      "code": "bjz",
+      "name": "Jeevansathi"
+    },
+    {
+      "code": "blr",
+      "name": "DocuSign"
+    },
+    {
+      "code": "bnu",
+      "name": "Qpon"
+    },
+    {
+      "code": "box",
+      "name": "Thumbtack"
+    },
+    {
+      "code": "bpc",
+      "name": "LOVOO"
+    },
+    {
+      "code": "bqe",
+      "name": "Lottomatica"
+    },
+    {
+      "code": "bqr",
+      "name": "ASAAS"
+    },
+    {
+      "code": "bry",
+      "name": "Mobile DE"
+    },
+    {
+      "code": "bud",
+      "name": "WeTalk"
+    },
+    {
+      "code": "bwd",
+      "name": "Fetch"
+    },
+    {
+      "code": "bzv",
+      "name": "TOP"
+    },
+    {
+      "code": "cw",
+      "name": "PaddyPower"
+    },
+    {
+      "code": "ee",
+      "name": "Twilio"
+    },
+    {
+      "code": "fd",
+      "name": "Mamba"
+    },
+    {
+      "code": "ht",
+      "name": "Bitso"
+    },
+    {
+      "code": "ja",
+      "name": "Weverse"
+    },
+    {
+      "code": "kf",
+      "name": "Weibo"
+    },
+    {
+      "code": "kk",
+      "name": "Idealista"
+    },
+    {
+      "code": "kq",
+      "name": "FotoCasa"
+    },
+    {
+      "code": "sc",
+      "name": "Voggt"
+    },
+    {
+      "code": "ti",
+      "name": "cryptocom"
+    },
+    {
+      "code": "wg",
+      "name": "Skout"
+    },
+    {
+      "code": "zb",
+      "name": "FreeNow"
+    },
+    {
+      "code": "zl",
+      "name": "Airtel"
+    },
+    {
+      "code": "aaq",
+      "name": "Netease"
+    },
+    {
+      "code": "aav",
+      "name": "Alchemy "
+    },
+    {
+      "code": "abb",
+      "name": "Coca-Cola"
+    },
+    {
+      "code": "abd",
+      "name": "BeBoo"
+    },
+    {
+      "code": "acc",
+      "name": " LuckyLand Slots"
+    },
+    {
+      "code": "aci",
+      "name": "Colombian Cupid"
+    },
+    {
+      "code": "ae",
+      "name": "myGLO"
+    },
+    {
+      "code": "aeq",
+      "name": "Godrej"
+    },
+    {
+      "code": "afk",
+      "name": "Chevron"
+    },
+    {
+      "code": "agc",
+      "name": "VIMpay"
+    },
+    {
+      "code": "agk",
+      "name": "Ipsos iSay"
+    },
+    {
+      "code": "agw",
+      "name": "Adverts"
+    },
+    {
+      "code": "ahd",
+      "name": "Midnite"
+    },
+    {
+      "code": "ahj",
+      "name": "Strato"
+    },
+    {
+      "code": "aim",
+      "name": "Firebase"
+    },
+    {
+      "code": "aiq",
+      "name": "Prime Opinion"
+    },
+    {
+      "code": "aiv",
+      "name": "Remitly"
+    },
+    {
+      "code": "aix",
+      "name": "Move It"
+    },
+    {
+      "code": "aiz",
+      "name": "Brevo"
+    },
+    {
+      "code": "ajy",
+      "name": "All Access"
+    },
+    {
+      "code": "akz",
+      "name": "Panvel"
+    },
+    {
+      "code": "ana",
+      "name": "Sicredi"
+    },
+    {
+      "code": "anb",
+      "name": "Abastece-aí"
+    },
+    {
+      "code": "anj",
+      "name": "Gemini"
+    },
+    {
+      "code": "ano",
+      "name": "Shopify"
+    },
+    {
+      "code": "anq",
+      "name": "Hitnspin"
+    },
+    {
+      "code": "anw",
+      "name": "Premmia"
+    },
+    {
+      "code": "aoe",
+      "name": "Sendwave"
+    },
+    {
+      "code": "aol",
+      "name": "Paysera"
+    },
+    {
+      "code": "aom",
+      "name": "Monzo"
+    },
+    {
+      "code": "aon",
+      "name": "Binance"
+    },
+    {
+      "code": "aow",
+      "name": "Geekay"
+    },
+    {
+      "code": "aox",
+      "name": "Aukro"
+    },
+    {
+      "code": "apb",
+      "name": "eToro"
+    },
+    {
+      "code": "apf",
+      "name": "Carrefour"
+    },
+    {
+      "code": "apg",
+      "name": "Damai"
+    },
+    {
+      "code": "api",
+      "name": "KKTIX"
+    },
+    {
+      "code": "apl",
+      "name": "Sideline"
+    },
+    {
+      "code": "aps",
+      "name": "Skelbiu"
+    },
+    {
+      "code": "arc",
+      "name": "CHECK24"
+    },
+    {
+      "code": "are",
+      "name": "Seated"
+    },
+    {
+      "code": "ari",
+      "name": "Ring4"
+    },
+    {
+      "code": "ars",
+      "name": "Bingo Plus"
+    },
+    {
+      "code": "asf",
+      "name": "TextFree"
+    },
+    {
+      "code": "asq",
+      "name": "Warpcast"
+    },
+    {
+      "code": "asy",
+      "name": "Fore Coffee"
+    },
+    {
+      "code": "atn",
+      "name": "Fawry"
+    },
+    {
+      "code": "atp",
+      "name": "Vonage"
+    },
+    {
+      "code": "atu",
+      "name": "Sber/Cooper"
+    },
+    {
+      "code": "aub",
+      "name": "Smitten"
+    },
+    {
+      "code": "auj",
+      "name": "High 5 Casino"
+    },
+    {
+      "code": "auz",
+      "name": "Outlier"
+    },
+    {
+      "code": "avj",
+      "name": "SumUp "
+    },
+    {
+      "code": "avk",
+      "name": "Quoka "
+    },
+    {
+      "code": "avt",
+      "name": "HuntTheMouse"
+    },
+    {
+      "code": "awq",
+      "name": "Atlas Earth"
+    },
+    {
+      "code": "aws",
+      "name": "7-Eleven"
+    },
+    {
+      "code": "awu",
+      "name": "MosGram"
+    },
+    {
+      "code": "aym",
+      "name": "Langit Musik"
+    },
+    {
+      "code": "ayo",
+      "name": "360Kredi"
+    },
+    {
+      "code": "ayr",
+      "name": "Superbet"
+    },
+    {
+      "code": "ayz",
+      "name": "Kimi"
+    },
+    {
+      "code": "azz",
+      "name": "Crystalbet"
+    },
+    {
+      "code": "bab",
+      "name": "Opera Mini"
+    },
+    {
+      "code": "bai",
+      "name": "SNKRDUNK"
+    },
+    {
+      "code": "baq",
+      "name": "Redbubble"
+    },
+    {
+      "code": "bav",
+      "name": "LeoList"
+    },
+    {
+      "code": "bay",
+      "name": "Genome"
+    },
+    {
+      "code": "bbg",
+      "name": "Square"
+    },
+    {
+      "code": "bbj",
+      "name": "OnePay"
+    },
+    {
+      "code": "bbl",
+      "name": "Autodesk"
+    },
+    {
+      "code": "bbm",
+      "name": "TrueMoney"
+    },
+    {
+      "code": "bbr",
+      "name": "WalletHub"
+    },
+    {
+      "code": "bck",
+      "name": "Onion Academy 洋葱学园"
+    },
+    {
+      "code": "bcx",
+      "name": "Bantusaku"
+    },
+    {
+      "code": "bdd",
+      "name": "BetMen"
+    },
+    {
+      "code": "bdo",
+      "name": "AdaModal"
+    },
+    {
+      "code": "bdt",
+      "name": "HOT51"
+    },
+    {
+      "code": "bdw",
+      "name": "Valora "
+    },
+    {
+      "code": "ber",
+      "name": "Gumtree"
+    },
+    {
+      "code": "bgn",
+      "name": "Veeka"
+    },
+    {
+      "code": "bhr",
+      "name": "Dil Mil"
+    },
+    {
+      "code": "bic",
+      "name": "Marktde"
+    },
+    {
+      "code": "bih",
+      "name": "Indosaku"
+    },
+    {
+      "code": "bix",
+      "name": "Hotel101"
+    },
+    {
+      "code": "bjp",
+      "name": "Ria"
+    },
+    {
+      "code": "bkk",
+      "name": "Poparide"
+    },
+    {
+      "code": "bkn",
+      "name": "betlive"
+    },
+    {
+      "code": "bkv",
+      "name": "Zen"
+    },
+    {
+      "code": "bkz",
+      "name": "Rewardy"
+    },
+    {
+      "code": "ble",
+      "name": "Nexon"
+    },
+    {
+      "code": "blp",
+      "name": "MEEFF"
+    },
+    {
+      "code": "blw",
+      "name": "BP"
+    },
+    {
+      "code": "blx",
+      "name": "2ememain"
+    },
+    {
+      "code": "bme",
+      "name": "myIM3"
+    },
+    {
+      "code": "bni",
+      "name": "Pets4Homes"
+    },
+    {
+      "code": "bob",
+      "name": "Shell GO"
+    },
+    {
+      "code": "bod",
+      "name": "Genspark"
+    },
+    {
+      "code": "bon",
+      "name": "RetailMeNot"
+    },
+    {
+      "code": "bow",
+      "name": "Affirm"
+    },
+    {
+      "code": "bpp",
+      "name": "Bliq"
+    },
+    {
+      "code": "bpz",
+      "name": "Just Eat"
+    },
+    {
+      "code": "bqi",
+      "name": "Datanyze"
+    },
+    {
+      "code": "bqm",
+      "name": "Beebs"
+    },
+    {
+      "code": "bqn",
+      "name": "Upward"
+    },
+    {
+      "code": "bqo",
+      "name": " Caffe Nero"
+    },
+    {
+      "code": "bqp",
+      "name": "Zara"
+    },
+    {
+      "code": "bqx",
+      "name": "Club Q8"
+    },
+    {
+      "code": "bqy",
+      "name": "SNAI"
+    },
+    {
+      "code": "brc",
+      "name": "Casa it"
+    },
+    {
+      "code": "brf",
+      "name": "Dolap"
+    },
+    {
+      "code": "brg",
+      "name": "Letgo"
+    },
+    {
+      "code": "bro",
+      "name": "YouGov Shopper"
+    },
+    {
+      "code": "brr",
+      "name": "LemFi"
+    },
+    {
+      "code": "brv",
+      "name": "999 md"
+    },
+    {
+      "code": "bsm",
+      "name": "Ahlan"
+    },
+    {
+      "code": "bso",
+      "name": "PayWell"
+    },
+    {
+      "code": "bss",
+      "name": "Trade Republic"
+    },
+    {
+      "code": "bsy",
+      "name": "Air Miles"
+    },
+    {
+      "code": "btd",
+      "name": "Volcengine 火山引擎"
+    },
+    {
+      "code": "bte",
+      "name": "CROCOBET"
+    },
+    {
+      "code": "bui",
+      "name": "OKbet"
+    },
+    {
+      "code": "bvi",
+      "name": "Salams"
+    },
+    {
+      "code": "bwe",
+      "name": "Immutable Play"
+    },
+    {
+      "code": "bxn",
+      "name": "Intel SAP"
+    },
+    {
+      "code": "bxp",
+      "name": "Tennents"
+    },
+    {
+      "code": "bxs",
+      "name": "LikeCard"
+    },
+    {
+      "code": "bxv",
+      "name": "PAPER"
+    },
+    {
+      "code": "bxw",
+      "name": "Credinex"
+    },
+    {
+      "code": "byd",
+      "name": "Airtasker"
+    },
+    {
+      "code": "byf",
+      "name": "SeaBank"
+    },
+    {
+      "code": "byh",
+      "name": "Adobe"
+    },
+    {
+      "code": "byp",
+      "name": "Kaito"
+    },
+    {
+      "code": "bzf",
+      "name": "Dabble"
+    },
+    {
+      "code": "caj",
+      "name": "GoMoney"
+    },
+    {
+      "code": "cak",
+      "name": "Bazaraki"
+    },
+    {
+      "code": "cam",
+      "name": "Eleme 饿了么"
+    },
+    {
+      "code": "cct",
+      "name": "Factory"
+    },
+    {
+      "code": "ccu",
+      "name": "Google Chat"
+    },
+    {
+      "code": "ccw",
+      "name": "夸克  Quark"
+    },
+    {
+      "code": "cj",
+      "name": "Dotz"
+    },
+    {
+      "code": "cm",
+      "name": "Prom"
+    },
+    {
+      "code": "co",
+      "name": "Rediffmail"
+    },
+    {
+      "code": "cp",
+      "name": "Uklon"
+    },
+    {
+      "code": "dg",
+      "name": "Mercari"
+    },
+    {
+      "code": "dp",
+      "name": "ProtonMail"
+    },
+    {
+      "code": "et",
+      "name": "Clubhouse"
+    },
+    {
+      "code": "fs",
+      "name": "Şikayet var"
+    },
+    {
+      "code": "ge",
+      "name": "Paytm"
+    },
+    {
+      "code": "gm",
+      "name": "Mocospace"
+    },
+    {
+      "code": "gs",
+      "name": "SamsungShop"
+    },
+    {
+      "code": "gx",
+      "name": "Hepsiburadacom"
+    },
+    {
+      "code": "hp",
+      "name": "Meesho"
+    },
+    {
+      "code": "il",
+      "name": "IQOS"
+    },
+    {
+      "code": "ip",
+      "name": "Burger King"
+    },
+    {
+      "code": "ir",
+      "name": "Chispa"
+    },
+    {
+      "code": "kl",
+      "name": "kolesa.kz"
+    },
+    {
+      "code": "kv",
+      "name": "Rush"
+    },
+    {
+      "code": "lc",
+      "name": "Subito"
+    },
+    {
+      "code": "ls",
+      "name": "Careem"
+    },
+    {
+      "code": "ly",
+      "name": "Olacabs"
+    },
+    {
+      "code": "ma",
+      "name": "Mail.ru"
+    },
+    {
+      "code": "mv",
+      "name": "Fruitz"
+    },
+    {
+      "code": "mw",
+      "name": "Transfergo"
+    },
+    {
+      "code": "mx",
+      "name": "SoulApp"
+    },
+    {
+      "code": "my",
+      "name": "CAIXA"
+    },
+    {
+      "code": "ng",
+      "name": "FunPay"
+    },
+    {
+      "code": "ns",
+      "name": "Oldubil"
+    },
+    {
+      "code": "oc",
+      "name": "DealShare"
+    },
+    {
+      "code": "oe",
+      "name": "Codashop"
+    },
+    {
+      "code": "oj",
+      "name": "LoveRu"
+    },
+    {
+      "code": "pu",
+      "name": "Justdating"
+    },
+    {
+      "code": "qh",
+      "name": "Oriflame"
+    },
+    {
+      "code": "qx",
+      "name": "WorldRemit"
+    },
+    {
+      "code": "rs",
+      "name": "Lotus"
+    },
+    {
+      "code": "sv",
+      "name": "Dostavista"
+    },
+    {
+      "code": "tc",
+      "name": "Rumbler"
+    },
+    {
+      "code": "tp",
+      "name": "IndiaGold"
+    },
+    {
+      "code": "tr",
+      "name": "Paysend"
+    },
+    {
+      "code": "tv",
+      "name": "Flink"
+    },
+    {
+      "code": "us",
+      "name": "IRCTC"
+    },
+    {
+      "code": "uv",
+      "name": "BinBin"
+    },
+    {
+      "code": "vp",
+      "name": "Kwai"
+    },
+    {
+      "code": "wc",
+      "name": "Craigslist"
+    },
+    {
+      "code": "ws",
+      "name": "Feeld"
+    },
+    {
+      "code": "xm",
+      "name": "Letual"
+    },
+    {
+      "code": "xu",
+      "name": "RecargaPay"
+    },
+    {
+      "code": "xy",
+      "name": "Depop"
+    },
+    {
+      "code": "yj",
+      "name": "eWallet"
+    },
+    {
+      "code": "ym",
+      "name": "youla.ru"
+    },
+    {
+      "code": "yu",
+      "name": "Xiaomi"
+    },
+    {
+      "code": "zo",
+      "name": "Kaggle"
+    },
+    {
+      "code": "zr",
+      "name": "Papara"
+    },
+    {
+      "code": "zs",
+      "name": "Bilibili"
+    },
+    {
+      "code": "ve",
+      "name": "Dream11"
+    },
+    {
+      "code": "bij",
+      "name": "Prodege"
+    },
+    {
+      "code": "alp",
+      "name": "Mera Gaon"
+    },
+    {
+      "code": "boo",
+      "name": "Casino Plus"
+    },
+    {
+      "code": "ft",
+      "name": "Bookmakers"
+    },
+    {
+      "code": "jc",
+      "name": "IVI"
+    },
+    {
+      "code": "bnp",
+      "name": "Airba Fresh"
+    },
+    {
+      "code": "yk",
+      "name": "SportMaster"
+    },
+    {
+      "code": "bbd",
+      "name": "DBS Bank"
+    },
+    {
+      "code": "bri",
+      "name": "Gardrops"
+    },
+    {
+      "code": "bhf",
+      "name": "InPost"
+    },
+    {
+      "code": "wd",
+      "name": "Столото"
+    },
+    {
+      "code": "cr",
+      "name": "TenChat"
+    },
+    {
+      "code": "qr",
+      "name": "MEGA"
+    },
+    {
+      "code": "wu",
+      "name": "PrivetMir"
+    },
+    {
+      "code": "bmb",
+      "name": "Газпром ID"
+    },
+    {
+      "code": "bsf",
+      "name": "Rupiah Cepat"
+    },
+    {
+      "code": "adj",
+      "name": "RummyCircle"
+    },
+    {
+      "code": "xz",
+      "name": "paycell"
+    },
+    {
+      "code": "aig",
+      "name": "Five Surveys"
+    },
+    {
+      "code": "ha",
+      "name": "My11Circle"
+    },
+    {
+      "code": "pb",
+      "name": "SkyTV"
+    },
+    {
+      "code": "ayc",
+      "name": "HungerStation"
+    },
+    {
+      "code": "we",
+      "name": "DrugVokrug"
+    },
+    {
+      "code": "bhz",
+      "name": "Eurobet"
+    },
+    {
+      "code": "auo",
+      "name": "Mycashbacks"
+    },
+    {
+      "code": "jy",
+      "name": "Sorare"
+    },
+    {
+      "code": "bxi",
+      "name": "Grupo Madero"
+    },
+    {
+      "code": "ayn",
+      "name": "Lime"
+    },
+    {
+      "code": "ajc",
+      "name": "Pochta Rossii"
+    },
+    {
+      "code": "mi",
+      "name": "Zupee"
+    },
+    {
+      "code": "bcy",
+      "name": "Finplus"
+    },
+    {
+      "code": "bbt",
+      "name": "Blink"
+    },
+    {
+      "code": "bd",
+      "name": "X5ID"
+    },
+    {
+      "code": "md",
+      "name": "Banks"
+    },
+    {
+      "code": "ji",
+      "name": "Monobank"
+    },
+    {
+      "code": "bqb",
+      "name": "Weex"
+    },
+    {
+      "code": "agx",
+      "name": "MeiQFashion"
+    },
+    {
+      "code": "jr",
+      "name": "Samokat"
+    },
+    {
+      "code": "bkw",
+      "name": "Bilkraft"
+    },
+    {
+      "code": "afn",
+      "name": "roomster"
+    },
+    {
+      "code": "rn",
+      "name": "neftm"
+    },
+    {
+      "code": "bly",
+      "name": "COSMOTE"
+    },
+    {
+      "code": "blm",
+      "name": "Epic Games "
+    },
+    {
+      "code": "hz",
+      "name": "Drom"
+    },
+    {
+      "code": "afd",
+      "name": "Astra Otoshop"
+    },
+    {
+      "code": "aga",
+      "name": "Publi24"
+    },
+    {
+      "code": "aih",
+      "name": "Fups"
+    },
+    {
+      "code": "aax",
+      "name": "Boyaa"
+    },
+    {
+      "code": "abl",
+      "name": "gpnbonus"
+    },
+    {
+      "code": "ady",
+      "name": "TOKYO-CITY"
+    },
+    {
+      "code": "kw",
+      "name": "Foody"
+    },
+    {
+      "code": "ms",
+      "name": "NovaPoshta"
+    },
+    {
+      "code": "rj",
+      "name": "Detskiy mir"
+    },
+    {
+      "code": "bii",
+      "name": "MEXC"
+    },
+    {
+      "code": "bmm",
+      "name": "Hey Cash"
+    },
+    {
+      "code": "cbk",
+      "name": "Fastwork"
+    },
+    {
+      "code": "bko",
+      "name": "Vision Plus"
+    },
+    {
+      "code": "aqm",
+      "name": "Tala"
+    },
+    {
+      "code": "bsa",
+      "name": "will"
+    },
+    {
+      "code": "azl",
+      "name": "MotoRan "
+    },
+    {
+      "code": "ib",
+      "name": "Immowelt"
+    },
+    {
+      "code": "ccv",
+      "name": "Triumph"
+    },
+    {
+      "code": "bwt",
+      "name": "Stanleybet"
+    },
+    {
+      "code": "azy",
+      "name": "Casa Pariurilor"
+    },
+    {
+      "code": "bou",
+      "name": "汇旺 Huione Pay"
+    },
+    {
+      "code": "aej",
+      "name": "Autoru"
+    },
+    {
+      "code": "bmi",
+      "name": "Sisal"
+    },
+    {
+      "code": "bbf",
+      "name": "Neosurf"
+    },
+    {
+      "code": "xr",
+      "name": "Tango"
+    },
+    {
+      "code": "arr",
+      "name": "Linii Lybvi"
+    },
+    {
+      "code": "boh",
+      "name": "Yophone"
+    },
+    {
+      "code": "wp",
+      "name": "163СOM"
+    },
+    {
+      "code": "aqj",
+      "name": "BigBasket"
+    },
+    {
+      "code": "br",
+      "name": "Vkusno i Tochka"
+    },
+    {
+      "code": "bsw",
+      "name": "Milanuncios"
+    },
+    {
+      "code": "bng",
+      "name": "Jush "
+    },
+    {
+      "code": "bhj",
+      "name": "Jòfogàs"
+    },
+    {
+      "code": "bwo",
+      "name": "KabanchikUA"
+    },
+    {
+      "code": "bhl",
+      "name": "ati su"
+    },
+    {
+      "code": "amy",
+      "name": "Otzovik"
+    },
+    {
+      "code": "btq",
+      "name": "ЭЛПЛАТ"
+    },
+    {
+      "code": "tf",
+      "name": "Noon"
+    },
+    {
+      "code": "apj",
+      "name": "Tinkoff VoiceKit"
+    },
+    {
+      "code": "bsl",
+      "name": "Oskelly"
+    },
+    {
+      "code": "aeh",
+      "name": "Apteka Aprel"
+    },
+    {
+      "code": "bls",
+      "name": "WeTV"
+    },
+    {
+      "code": "sy",
+      "name": "Brahma"
+    },
+    {
+      "code": "brt",
+      "name": "Netwin"
+    },
+    {
+      "code": "qo",
+      "name": "Moneylion"
+    },
+    {
+      "code": "dt",
+      "name": "Delivery Club"
+    },
+    {
+      "code": "boz",
+      "name": "Doctu"
+    },
+    {
+      "code": "bxc",
+      "name": "DRIVE2"
+    },
+    {
+      "code": "apy",
+      "name": "Vinlab"
+    },
+    {
+      "code": "yh",
+      "name": "hh"
+    },
+    {
+      "code": "blq",
+      "name": "Ari10"
+    },
+    {
+      "code": "om",
+      "name": "Corona"
+    },
+    {
+      "code": "bhb",
+      "name": "Wuling"
+    },
+    {
+      "code": "bhe",
+      "name": "Jago"
+    },
+    {
+      "code": "bcg",
+      "name": "2ГИС"
+    },
+    {
+      "code": "bvs",
+      "name": "Вчасно"
+    },
+    {
+      "code": "ahk",
+      "name": "BlinBeri"
+    },
+    {
+      "code": "ahr",
+      "name": "This Fate"
+    },
+    {
+      "code": "nt",
+      "name": "Sravni"
+    },
+    {
+      "code": "ace",
+      "name": "Tata Neu"
+    },
+    {
+      "code": "mg",
+      "name": "Magnit"
+    },
+    {
+      "code": "blo",
+      "name": "SiliconFlow 硅基流动"
+    },
+    {
+      "code": "bpe",
+      "name": "Сільпо"
+    },
+    {
+      "code": "blc",
+      "name": "Дикси"
+    },
+    {
+      "code": "axm",
+      "name": "Não Me Perturbe"
+    },
+    {
+      "code": "rc",
+      "name": "Skype"
+    },
+    {
+      "code": "of",
+      "name": "urent/jet/RuSharing"
+    },
+    {
+      "code": "bmj",
+      "name": "Betflag"
+    },
+    {
+      "code": "abt",
+      "name": "ArenaPlus"
+    },
+    {
+      "code": "aaz",
+      "name": "Ozan"
+    },
+    {
+      "code": "avv",
+      "name": "shopFarEast"
+    },
+    {
+      "code": "ky",
+      "name": "SpatenOktoberfest"
+    },
+    {
+      "code": "bos",
+      "name": "Casino Portugal"
+    },
+    {
+      "code": "bv",
+      "name": "Metro"
+    },
+    {
+      "code": "yn",
+      "name": "Allegro"
+    },
+    {
+      "code": "aul",
+      "name": "Alignable"
+    },
+    {
+      "code": "dj",
+      "name": "LUKOIL-AZS"
+    },
+    {
+      "code": "bwy",
+      "name": "Монетка"
+    },
+    {
+      "code": "zt",
+      "name": "Budweiser"
+    },
+    {
+      "code": "byw",
+      "name": "Annoncelight"
+    },
+    {
+      "code": "py",
+      "name": "Monese"
+    },
+    {
+      "code": "aeu",
+      "name": "TheFork"
+    },
+    {
+      "code": "agi",
+      "name": "Njuškalo"
+    },
+    {
+      "code": "bib",
+      "name": "myBCA"
+    },
+    {
+      "code": "bzb",
+      "name": "Big Cash"
+    },
+    {
+      "code": "ayv",
+      "name": "myTVSUPER"
+    },
+    {
+      "code": "bog",
+      "name": "France Mobilities"
+    },
+    {
+      "code": "cbs",
+      "name": "lalafo"
+    },
+    {
+      "code": "bvu",
+      "name": "SwaRail "
+    },
+    {
+      "code": "btu",
+      "name": "DDX Fitness"
+    },
+    {
+      "code": "hy",
+      "name": "Ininal"
+    },
+    {
+      "code": "cac",
+      "name": "Vesseo"
+    },
+    {
+      "code": "aoq",
+      "name": "JB Hi-Fi"
+    },
+    {
+      "code": "cbh",
+      "name": "ZUL"
+    },
+    {
+      "code": "jl",
+      "name": "Hopi"
+    },
+    {
+      "code": "ccl",
+      "name": "Cruzeiro"
+    },
+    {
+      "code": "afa",
+      "name": "CDEK"
+    },
+    {
+      "code": "ahv",
+      "name": "Curve"
+    },
+    {
+      "code": "bwl",
+      "name": "Guthabende"
+    },
+    {
+      "code": "bxu",
+      "name": "Chronodrive"
+    },
+    {
+      "code": "akm",
+      "name": "LOTTE Mart"
+    },
+    {
+      "code": "amw",
+      "name": "Tise"
+    },
+    {
+      "code": "fw",
+      "name": "99acres"
+    },
+    {
+      "code": "aab",
+      "name": "BharatPe"
+    },
+    {
+      "code": "bke",
+      "name": "FOOTDISTRICT"
+    },
+    {
+      "code": "bku",
+      "name": "NL International"
+    },
+    {
+      "code": "ail",
+      "name": "Smotryoshka"
+    },
+    {
+      "code": "bbs",
+      "name": "Ecoplatform"
+    },
+    {
+      "code": "aqq",
+      "name": "MPSTATS"
+    },
+    {
+      "code": "akj",
+      "name": "Easycash"
+    },
+    {
+      "code": "bol",
+      "name": "My TELUS"
+    },
+    {
+      "code": "bmx",
+      "name": "Canal RCN"
+    },
+    {
+      "code": "bye",
+      "name": "WhatsApp Business"
+    },
+    {
+      "code": "btx",
+      "name": "Amap 高德地图"
+    },
+    {
+      "code": "acu",
+      "name": "CityMall"
+    },
+    {
+      "code": "axg",
+      "name": "Twin"
+    },
+    {
+      "code": "bop",
+      "name": "Везёт"
+    },
+    {
+      "code": "ahn",
+      "name": "Riv Gosh"
+    },
+    {
+      "code": "acr",
+      "name": "QwikCilver"
+    },
+    {
+      "code": "agv",
+      "name": "DoneDeal"
+    },
+    {
+      "code": "btp",
+      "name": "Связь ON"
+    },
+    {
+      "code": "bxr",
+      "name": "AlFursan"
+    },
+    {
+      "code": "aat",
+      "name": "TamTam"
+    },
+    {
+      "code": "aly",
+      "name": "Bebeclub"
+    },
+    {
+      "code": "gt",
+      "name": "Gett"
+    },
+    {
+      "code": "bdh",
+      "name": "Singledk"
+    },
+    {
+      "code": "bdb",
+      "name": "ОБИ"
+    },
+    {
+      "code": "auf",
+      "name": "PREMIER"
+    },
+    {
+      "code": "bvj",
+      "name": "Санофи"
+    },
+    {
+      "code": "bsv",
+      "name": "AmarthaFin"
+    },
+    {
+      "code": "ajv",
+      "name": "ShareParty"
+    },
+    {
+      "code": "cbb",
+      "name": "KeepCalling"
+    },
+    {
+      "code": "rd",
+      "name": "Lenta"
+    },
+    {
+      "code": "bje",
+      "name": "Meest"
+    },
+    {
+      "code": "ta",
+      "name": "Wink"
+    },
+    {
+      "code": "bwf",
+      "name": "MyGo"
+    },
+    {
+      "code": "ahx",
+      "name": "Bitrue"
+    },
+    {
+      "code": "qg",
+      "name": "MoneyPay"
+    },
+    {
+      "code": "bif",
+      "name": "OPAP"
+    },
+    {
+      "code": "can",
+      "name": "BAGI"
+    },
+    {
+      "code": "adw",
+      "name": "Profi"
+    },
+    {
+      "code": "bnt",
+      "name": "Treasury"
+    },
+    {
+      "code": "bcz",
+      "name": "UATAS"
+    },
+    {
+      "code": "buy",
+      "name": "GetBlogger"
+    },
+    {
+      "code": "bas",
+      "name": "Stoiximan"
+    },
+    {
+      "code": "afu",
+      "name": "VseInstrumenty"
+    },
+    {
+      "code": "ke",
+      "name": "Eldorado"
+    },
+    {
+      "code": "aer",
+      "name": "PlayerAuctions"
+    },
+    {
+      "code": "atl",
+      "name": "Watsons MY"
+    },
+    {
+      "code": "aeg",
+      "name": "Flowwow"
+    },
+    {
+      "code": "sl",
+      "name": "robota.ua"
+    },
+    {
+      "code": "aes",
+      "name": "Zolotoye Yabloko"
+    },
+    {
+      "code": "zn",
+      "name": "Biedronka"
+    },
+    {
+      "code": "zd",
+      "name": "Zilch"
+    },
+    {
+      "code": "abh",
+      "name": "UOL Host"
+    },
+    {
+      "code": "bfv",
+      "name": "Chocofamily"
+    },
+    {
+      "code": "sd",
+      "name": "dodopizza"
+    },
+    {
+      "code": "afc",
+      "name": "Bunda"
+    },
+    {
+      "code": "js",
+      "name": "GolosZa"
+    },
+    {
+      "code": "aid",
+      "name": "Kwiff"
+    },
+    {
+      "code": "acn",
+      "name": "Gringo"
+    },
+    {
+      "code": "bnf",
+      "name": "ContiCazino"
+    },
+    {
+      "code": "ahc",
+      "name": "START"
+    },
+    {
+      "code": "bru",
+      "name": "myPOS"
+    },
+    {
+      "code": "kj",
+      "name": "YAPPY"
+    },
+    {
+      "code": "aju",
+      "name": "Daya Auto"
+    },
+    {
+      "code": "bem",
+      "name": "Shafa"
+    },
+    {
+      "code": "aru",
+      "name": "UNNI 강남언니"
+    },
+    {
+      "code": "ov",
+      "name": "Beget"
+    },
+    {
+      "code": "azd",
+      "name": "Вплюсе"
+    },
+    {
+      "code": "bxj",
+      "name": "Quero-Quero PAG"
+    },
+    {
+      "code": "bga",
+      "name": "LPTracker"
+    },
+    {
+      "code": "buj",
+      "name": "ASVLA"
+    },
+    {
+      "code": "ny",
+      "name": "BitcoinBon"
+    },
+    {
+      "code": "avu",
+      "name": "Karos"
+    },
+    {
+      "code": "adv",
+      "name": "Cian"
+    },
+    {
+      "code": "bjq",
+      "name": "Surveyon "
+    },
+    {
+      "code": "aag",
+      "name": "Pockit"
+    },
+    {
+      "code": "ami",
+      "name": "TEAMORU"
+    },
+    {
+      "code": "bhp",
+      "name": "PPC"
+    },
+    {
+      "code": "bau",
+      "name": "FieldStar"
+    },
+    {
+      "code": "bfa",
+      "name": "Webmotors "
+    },
+    {
+      "code": "bvf",
+      "name": "GymPlius"
+    },
+    {
+      "code": "lm",
+      "name": "FarPost"
+    },
+    {
+      "code": "arx",
+      "name": "Zinia"
+    },
+    {
+      "code": "sh",
+      "name": "Vkusvill"
+    },
+    {
+      "code": "cba",
+      "name": "Enilive"
+    },
+    {
+      "code": "xt",
+      "name": "Flipkart"
+    },
+    {
+      "code": "gk",
+      "name": "AptekaRU"
+    },
+    {
+      "code": "pv",
+      "name": "Koshelek"
+    },
+    {
+      "code": "bpi",
+      "name": "Askable"
+    },
+    {
+      "code": "aet",
+      "name": "Greywoods"
+    },
+    {
+      "code": "bcr",
+      "name": "ESX"
+    },
+    {
+      "code": "cy",
+      "name": "PSA"
+    },
+    {
+      "code": "awg",
+      "name": "Natura Avon"
+    },
+    {
+      "code": "alx",
+      "name": "NutriClub"
+    },
+    {
+      "code": "ane",
+      "name": "Supercell"
+    },
+    {
+      "code": "ui",
+      "name": "RuTube"
+    },
+    {
+      "code": "bpg",
+      "name": "НаПоправку"
+    },
+    {
+      "code": "st",
+      "name": "Auchan"
+    },
+    {
+      "code": "aos",
+      "name": "Loloo"
+    },
+    {
+      "code": "blh",
+      "name": "Winner"
+    },
+    {
+      "code": "afo",
+      "name": "KION "
+    },
+    {
+      "code": "azn",
+      "name": "UFC"
+    },
+    {
+      "code": "ze",
+      "name": "Shpock"
+    },
+    {
+      "code": "bns",
+      "name": "PAC Cash"
+    },
+    {
+      "code": "azs",
+      "name": "Магнолия"
+    },
+    {
+      "code": "btm",
+      "name": "ZeeNow"
+    },
+    {
+      "code": "bji",
+      "name": "Perfect World 完美世界"
+    },
+    {
+      "code": "aoo",
+      "name": "Pegasus Airlines"
+    },
+    {
+      "code": "qy",
+      "name": "Zhihu"
+    },
+    {
+      "code": "bit",
+      "name": "Домклик"
+    },
+    {
+      "code": "bnd",
+      "name": "КуулКлевер"
+    },
+    {
+      "code": "tk",
+      "name": "MVideo"
+    },
+    {
+      "code": "sb",
+      "name": "Lamoda"
+    },
+    {
+      "code": "da",
+      "name": "MTS CashBack"
+    },
+    {
+      "code": "bba",
+      "name": "SwitchUp"
+    },
+    {
+      "code": "qe",
+      "name": "GG"
+    },
+    {
+      "code": "wt",
+      "name": "IZI"
+    },
+    {
+      "code": "bla",
+      "name": "FDJ ParionsSport"
+    },
+    {
+      "code": "bpq",
+      "name": "MChat"
+    },
+    {
+      "code": "vs",
+      "name": "WinzoGame"
+    },
+    {
+      "code": "aug",
+      "name": "Magnit Market"
+    },
+    {
+      "code": "bki",
+      "name": "MyACUVUE"
+    },
+    {
+      "code": "adz",
+      "name": "Shokoladnica"
+    },
+    {
+      "code": "tz",
+      "name": "Leyka"
+    }
+  ]
+}

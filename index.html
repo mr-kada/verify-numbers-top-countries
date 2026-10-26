@@ -256,7 +256,7 @@
 
             // servicesData = await res.json();
 
-            const res = await fetch("services_map.json");
+            const res = await fetch("./services_map.json");
             const servicesData = await res.json();
             console.log(servicesData.services[0].name);
 
